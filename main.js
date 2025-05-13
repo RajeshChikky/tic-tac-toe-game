@@ -1,0 +1,1 @@
+// React JS bundle would be here
